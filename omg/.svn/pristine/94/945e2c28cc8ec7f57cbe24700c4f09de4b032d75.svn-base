@@ -1,0 +1,45 @@
+<?php
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ * Description of Utility
+ *
+ * @author ashok
+ */
+class Utility {
+    //put your code here
+    
+    public static function  sendSMS($mobileNo, $text)
+    {
+        
+    }
+    
+    public static function generateSMSConfirmationCode($mobileNo)
+    {
+        
+    }
+    
+    public static function verifySMSConfirmationCode($mobileNo, $code)
+    {
+        
+    }
+    public static function checkMobileNoAvailibilty($mobileNo)
+    {
+        
+    }
+    public static function getAddress($latitude,$langitude)
+    {
+        
+    }
+    public static function getLocationFromAddress($address)
+    {
+        
+    }
+    
+    
+}
